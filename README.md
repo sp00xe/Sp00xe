@@ -4,14 +4,7 @@
 I'm an Application Security Engineer with a passion for cars and motorsport.
 </p>
 <p align='center'>
-🔭 I’m currently working on building a CANBUS lab to learn more about automotive security 🚗
-</p>
-<p align='center'>
-🛠️I'm also working on learning how to design a CAN for my 1989 Camaro to modernize it's systems
-</p>
-<p align='center'>
-<p align='center'>
-🤖Also diving into Artifical Inteligence for appsec and red teams
+🤖 Unlocking the power of AI to boost Application Security and Red Team performance.
 </p>
 
 <p align='center'>
